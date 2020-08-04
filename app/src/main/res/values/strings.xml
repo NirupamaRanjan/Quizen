@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizen</string>
+    <string name="button1">TRUE</string>
+    <string name="button2">FALSE</string>
+    <string name="q1">Kryptonite is the source of Superman\'s power</string>
+    <string name="q2">Jackson Pollock revolutionized art with his Photo-realist paintings.</string>
+    <string name="q3">No woman had won an Oscar for best director until 2008.</string>
+    <string name="q4">The main innovation that made cars widely available and affordable was the assembly line.</string>
+    <string name="q5">The Apgar Score measures body fat.</string>
+    <string name="q6">Run-D.M.C. was the first rap group to go "gold" and be nominated for a Grammy.</string>
+    <string name="q7">Ozone is "good" in the upper atmosphere but "bad" in the lower.</string>
+    <string name="q8">An obsession with actress Jodi Foster led to the shooting of President Ronald Reagan in 1981.</string>
+    <string name="q9">The Statue of Liberty was a gift from France to America.</string>
+    <string name="q10">The blue whale, the world\'s largest animal, has teeth 12 inches long.</string>
+
+
+</resources>
